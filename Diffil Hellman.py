@@ -1,4 +1,3 @@
-
 from sympy import isprime, totient, factorint
 
 def primitive_root(p):
