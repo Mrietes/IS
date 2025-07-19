@@ -81,5 +81,3 @@ def caesar(direction,alphabet,step,text):
                     else:
                         new_i = eng_upper_alphabet[(ind + step)]
                         print(new_i, end="")
-
-print(caesar(direction,alphabet,step,text))
